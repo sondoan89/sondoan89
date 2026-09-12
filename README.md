@@ -1,157 +1,116 @@
 <div align="center">
 
-```
-   ██████╗  ██████╗  █████╗ ███╗   ██╗    ████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗    ███████╗ ██████╗ ███╗   ██╗
-   ██╔══██╗██╔═══██╗██╔══██╗████╗  ██║    ╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║  ██║    ██╔════╝██╔═══██╗████╗  ██║
-   ██║  ██║██║   ██║███████║██╔██╗ ██║       ██║   ███████║███████║██╔██╗ ██║███████║    ███████╗██║   ██║██╔██╗ ██║
-   ██║  ██║██║   ██║██╔══██║██║╚██╗██║       ██║   ██╔══██║██╔══██║██║╚██╗██║██╔══██║    ╚════██║██║   ██║██║╚██╗██║
-   ██████╔╝╚██████╔╝██║  ██║██║ ╚████║       ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██║    ███████║╚██████╔╝██║ ╚████║
-   ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝       ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝    ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
-```
+# 👋 Hi, I'm Sơn Đoàn (Đoàn Thanh Sơn)
+### Software Engineer • Full-Stack Developer • System Builder
 
-### `⚡ MECHA ARCHITECT // FULL-STACK ENGINEER // CALLSIGN: SONDOAN89 ⚡`
-
-[![Status](https://img.shields.io/badge/SYSTEM_STATUS-ONLINE_%2F%2F_OVERCLOCKED-00F0FF?style=for-the-badge&logo=statuspage&logoColor=black)](https://github.com/sondoan89)
-[![Clearance](https://img.shields.io/badge/SECURITY_CLEARANCE-LEVEL_5_ROOT-7000FF?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/sondoan89)
-[![Availability](https://img.shields.io/badge/MISSION_STATUS-READY_FOR_DEPLOYMENT-00E5FF?style=for-the-badge&logo=rocket&logoColor=black)](mailto:thanhson.work@gmail.com)
-
-<br/>
-
-<!-- Communications Uplink -->
-<a href="mailto:thanhson.work@gmail.com"><img src="https://img.shields.io/badge/SECURE_MAIL-thanhson.work%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/sondoan89"><img src="https://img.shields.io/badge/GITHUB_TERMINAL-sondoan89-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN_UPLINK-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://t.me"><img src="https://img.shields.io/badge/TELEGRAM-COMM_CHANNEL-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
+<p align="center">
+  <a href="mailto:thanhson.work@gmail.com"><img src="https://img.shields.io/badge/Email-thanhson.work%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/sondoan89"><img src="https://img.shields.io/badge/GitHub-sondoan89-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Vietnam-0099FF?style=flat&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-success?style=flat" />
+</p>
 
 </div>
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════════════╗
-║  [PILOT DOSSIER // EXECUTIVE SUMMARY]                                                    ║
-╠══════════════════════════════════════════════════════════════════════════════════════════╣
-║  • OPERATOR NAME : Doan Thanh Son (Đoàn Thanh Sơn)                                       ║
-║  • CALLSIGN      : sondoan89                                                             ║
-║  • BASE SECTOR   : Hanoi / Ho Chi Minh City, Vietnam                                     ║
-║  • ROLE & CLASS  : Core Full-Stack Systems Engineer // Mecha Architect                   ║
-║  • CORE STACK    : C++, Python, TypeScript, Node.js, React, Docker, Linux                ║
-║  • OBJECTIVE     : Xây dựng hệ thống phần mềm hiệu năng cao, kiến trúc vi dịch vụ sạch   ║
-║                    sẽ, tối ưu luồng dữ liệu thời gian thực và tự động hóa bảo mật.       ║
-╚══════════════════════════════════════════════════════════════════════════════════════════╝
-```
+### 👨‍💻 About Me
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>Kỹ sư phần mềm đam mê xây dựng các sản phẩm ứng dụng web và hệ thống có độ tin cậy cao, hiệu năng tối ưu và kiến trúc rõ ràng.</p>
+      <ul>
+        <li>🌱 <b>Tập trung hiện tại:</b> Phát triển Full-Stack hiện đại với TypeScript, React/Next.js, Node.js và hệ thống phân tán C++/Python.</li>
+        <li>🔭 <b>Kinh nghiệm:</b> Thiết kế RESTful APIs, quản trị dữ liệu quan hệ (PostgreSQL/MySQL), container hóa Docker và tự động hóa CI/CD.</li>
+        <li>🎓 <b>Học vấn:</b> Cử nhân Công nghệ Thông tin (Khoa CNTT - Lớp DH14C4).</li>
+        <li>💬 <b>Sở thích:</b> Clean Architecture, Performance Optimization, Open-Source Software.</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sondoan89&layout=compact&theme=dark&hide_border=true" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ WEAPON SUBSYSTEMS & ORDNANCE (TECHNICAL CAPABILITIES)
-
-```
-[PRIMARY ENGINES // PROGRAMMING LANGUAGES]
-├─ C / C++ (Low-Level / System Core)       [████████████████░░░░] 85%  ── [OVERDRIVE]
-├─ Python (Security, Scripts & Automation) [██████████████████░░] 92%  ── [RAPID FIRE]
-├─ TypeScript / JavaScript (Modern Web)    [██████████████████░░] 90%  ── [SYNCHRONIZED]
-└─ SQL (Data Relational Modeling)          [████████████████░░░░] 85%  ── [ACID TRANSACTION]
-
-[AVIONICS & HUD // FRONTEND ARCHITECTURE]
-├─ React.js / Next.js Framework            [██████████████████░░] 90%  ── [SERVER COMPONENTS]
-├─ TailwindCSS / Responsive UI Matrix      [████████████████████] 100% ── [PIXEL PERFECT]
-└─ HTML5 / CSS3 / Modern Web API           [████████████████████] 100% ── [HARDENED DOM]
-
-[PROPULSION REACTOR // BACKEND & INFRASTRUCTURE]
-├─ Node.js / Express Core Services         [██████████████████░░] 92%  ── [NON-BLOCKING I/O]
-├─ PostgreSQL / MongoDB / Redis Cache      [████████████████░░░░] 85%  ── [HIGH-THROUGHPUT]
-├─ Docker Containerization & Microservices [██████████████████░░] 90%  ── [ISOLATED RUNTIMES]
-└─ Linux Environment & Git Version Control [████████████████████] 100% ── [SYSTEM ADMIN LEVEL]
-```
+### 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
-#### `[ACTIVE HARDWARE & SOFTWARE ECOSYSTEM]`
-
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+| Lĩnh vực | Công nghệ |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,html,css" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" /> |
+| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,postman" /> |
 
 </div>
 
 ---
 
-### 🛰️ DEPLOYED BATTLE OPERATIONS (FEATURED PROJECTS)
+### 🚀 Featured Projects
 
-```
-┌──────────────────────────────────────────────────────────────────────────────────────────┐
-│ 01 // OPERATION: CAR-SENTINEL (VEHICLE TELEMETRY & MANAGEMENT PLATFORM)                 │
-├──────────────────────────────────────────────────────────────────────────────────────────┤
-│ • STATUS     : ACTIVE SERVICE // COMPLETED                                               │
-│ • TECH STACK : Node.js / Express / PostgreSQL / Docker / RESTful APIs                    │
-│ • OBJECTIVE  : Thiết kế nền tảng quản lý và giám sát dữ liệu phương tiện thời gian thực, │
-│                hỗ trợ theo dõi lộ trình và cảnh báo sự cố chẩn đoán chính xác.           │
-│ • OUTCOME    : Tối ưu độ trễ xử lý dữ liệu, đảm bảo bảo mật và khả năng mở rộng tốt.   │
-│ • CODEBASE   : https://github.com/sondoan89/car                                          │
-└──────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-```
-┌──────────────────────────────────────────────────────────────────────────────────────────┐
-│ 02 // OPERATION: NEXUS-PORTFOLIO (INTERACTIVE COMMAND INTERFACE)                         │
-├──────────────────────────────────────────────────────────────────────────────────────────┤
-│ • STATUS     : DEPLOYED // CONTINUOUS ITERATION                                          │
-│ • TECH STACK : React / Next.js / TailwindCSS / Modern Web Standards                      │
-│ • OBJECTIVE  : Xây dựng nền tảng hồ sơ năng lực cá nhân với hiệu năng tối ưu, giao diện  │
-│                phong cách công nghệ cao và trải nghiệm người dùng ấn tượng.              │
-│ • OUTCOME    : Điểm kiểm thử Lighthouse 98+, hiển thị hoàn hảo trên mọi kích thước màn. │
-│ • CODEBASE   : https://github.com/sondoan89/Portfolio-ThanhSon                           │
-└──────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-```
-┌──────────────────────────────────────────────────────────────────────────────────────────┐
-│ 03 // OPERATION: CYBER-PROBE (SECURITY AUDIT & AUTOMATION HARNESS)                       │
-├──────────────────────────────────────────────────────────────────────────────────────────┤
-│ • STATUS     : OPERATIONAL PROTOCOL                                                      │
-│ • TECH STACK : Python 3 / Bash / PowerShell / GitHub Actions CI/CD                        │
-│ • OBJECTIVE  : Tự động hóa quy trình quét mã nguồn, kiểm tra an toàn bảo mật và báo cáo  │
-│                lỗ hổng trước khi triển khai sản phẩm lên môi trường production.          │
-│ • OUTCOME    : Giảm 80% thời gian rà soát thủ công, nâng cao độ tin cậy của mã nguồn.    │
-│ • CODEBASE   : https://github.com/sondoan89/security-audit                               │
-└──────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-### 🎓 FLIGHT ACADEMY & CREDENTIALS
-
-```
-╔══════════════════════════════════════════════════════════════════════════════════════════╗
-║  [ACADEMIC CREDENTIALS]                                                                  ║
-╠══════════════════════════════════════════════════════════════════════════════════════════╣
-║  • HỌC VẤN    : Cử nhân Công nghệ Thông tin (Squad: DH14C4)                              ║
-║  • CHUYÊN MÔN : Kỹ thuật phần mềm, Cấu trúc dữ liệu & Thuật toán, Kiến trúc mạng máy tính║
-║                                                                                          ║
-║  [CHỨNG CHỈ & KỸ NĂNG NÂNG CAO]                                                          ║
-║  • Enterprise Git & GitHub CI/CD Automation Workflows                                    ║
-║  • Full-Stack Microservices Architecture & Database Performance Tuning                   ║
-╚══════════════════════════════════════════════════════════════════════════════════════════╝
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 <a href="https://github.com/sondoan89/car">Car Management Platform</a></h3>
+      <p>Hệ thống giám sát và quản lý phương tiện thời gian thực. Hỗ trợ theo dõi lộ trình, thu thập dữ liệu cảm biến viễn thông và chẩn đoán trạng thái xe.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 <a href="https://github.com/sondoan89/Portfolio-ThanhSon">Modern Developer Portfolio</a></h3>
+      <p>Trang Portfolio cá nhân chuẩn quốc tế giới thiệu hồ sơ năng lực, các dự án thực chiến và quá trình phát triển sự nghiệp.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/sondoan89">Security Audit & Automation</a></h3>
+      <p>Bộ script tự động hóa rà soát an toàn mã nguồn, kiểm tra chuẩn tuân thủ bảo mật và tích hợp luồng GitHub Actions CI/CD.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 <a href="https://github.com/sondoan89">Academic Coursework & Labs</a></h3>
+      <p>Kho lưu trữ các bài tập lớn, thuật toán cấu trúc dữ liệu và ứng dụng phân tán thực hiện trong chương trình đào tạo Cử nhân CNTT.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Algorithms-black?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
 
-```
-  ================================================================================
-  [TRANSMISSION TERMINATED] // AVAILABLE FOR SYSTEM DIRECTIVES // CONTRACT / HIRE
-  ================================================================================
-```
+### 📬 Get In Touch
 
-*Designed with precision for **Đoàn Thanh Sơn** (`sondoan89`)*
+<p>Vui lòng liên hệ qua email hoặc LinkedIn nếu bạn muốn trao đổi công việc, hợp tác dự án hoặc thảo luận kỹ thuật!</p>
+
+<p>
+  <a href="mailto:thanhson.work@gmail.com"><img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<sub><i>Profile maintained by <b>Đoàn Thanh Sơn</b> • Updated 2026</i></sub>
 
 </div>
