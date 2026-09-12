@@ -1,79 +1,86 @@
 <div align="center">
 
 ```
-  ██████╗ ███████╗████████╗██████╗  ██████╗     ███╗   ███╗███████╗ ██████╗██╗  ██╗ █████╗ 
- ██╔════╝ ██╔════╝╚══██╔══╝██╔══██╗██╔═══██╗    ████╗ ████║██╔════╝██╔════╝██║  ██║██╔══██╗
- ██║  ███╗█████╗     ██║   ██████╔╝██║   ██║    ██╔████╔██║█████╗  ██║     ███████║███████║
- ██║   ██║██╔══╝     ██║   ██╔═══╝ ██║   ██║    ██║╚██╔╝██║██╔══╝  ██║     ██╔══██║██╔══██║
- ╚██████╔╝███████╗   ██║   ██║     ╚██████╔╝    ██║ ╚═╝ ██║███████╗╚██████╗██║  ██║██║  ██║
-  ╚═════╝ ╚══════╝   ╚═╝   ╚═╝      ╚═════╝     ╚═╝     ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝
+   ██████╗  ██████╗  █████╗ ███╗   ██╗    ████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗    ███████╗ ██████╗ ███╗   ██╗
+   ██╔══██╗██╔═══██╗██╔══██╗████╗  ██║    ╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║  ██║    ██╔════╝██╔═══██╗████╗  ██║
+   ██║  ██║██║   ██║███████║██╔██╗ ██║       ██║   ███████║███████║██╔██╗ ██║███████║    ███████╗██║   ██║██╔██╗ ██║
+   ██║  ██║██║   ██║██╔══██║██║╚██╗██║       ██║   ██╔══██║██╔══██║██║╚██╗██║██╔══██║    ╚════██║██║   ██║██║╚██╗██║
+   ██████╔╝╚██████╔╝██║  ██║██║ ╚████║       ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██║    ███████║╚██████╔╝██║ ╚████║
+   ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝       ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝    ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-<!-- Neon Cyberpunk Dynamic Banner -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00F0FF,50:7000FF,100:FF0055&height=180&section=header&text=%E2%96%B6%20DOAN%20THANH%20SON%20%E2%97%80&fontSize=34&fontColor=00F0FF&fontAlignY=42&desc=%5B%20CALLSIGN:%20SONDOAN89%20%7C%20CORE%20SYSTEMS%20%26%20FULL-STACK%20ARCHITECT%20%5D&descFontSize=14&descAlignY=68" width="100%" />
+### `⚡ MECHA ARCHITECT // FULL-STACK ENGINEER // CALLSIGN: SONDOAN89 ⚡`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=19&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=%3E%3E+PILOT+STATUS%3A+READY+FOR+MISSION+DEPLOYMENT;%3E%3E+CORE+REACTOR%3A+OVERCLOCKED+AT+100%25+EFFICIENCY;%3E%3E+SPECIALIZATION%3A+HIGH-PERFORMANCE+SYSTEMS+%2B+WEB3;%3E%3E+ROOT+ACCESS+GRANTED%3A+WELCOME+TO+COMMAND+DECK" alt="HUD Telemetry Log" />
-</p>
+[![Status](https://img.shields.io/badge/SYSTEM_STATUS-ONLINE_%2F%2F_OVERCLOCKED-00F0FF?style=for-the-badge&logo=statuspage&logoColor=black)](https://github.com/sondoan89)
+[![Clearance](https://img.shields.io/badge/SECURITY_CLEARANCE-LEVEL_5_ROOT-7000FF?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/sondoan89)
+[![Availability](https://img.shields.io/badge/MISSION_STATUS-READY_FOR_DEPLOYMENT-00E5FF?style=for-the-badge&logo=rocket&logoColor=black)](mailto:thanhson.work@gmail.com)
 
-<!-- Cockpit Comms Frequencies -->
-<p align="center">
-  <a href="mailto:thanhson.work@gmail.com"><img src="https://img.shields.io/badge/COMMS-thanhson.work%40gmail.com-00F0FF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-  <a href="https://github.com/sondoan89"><img src="https://img.shields.io/badge/GRID_ID-sondoan89-7000FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/UPLINK-LINKEDIN-FF0055?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sondoan89.sondoan89&left_color=050811&right_color=00F0FF" alt="Scan Count" />
-</p>
+<br/>
+
+<!-- Communications Uplink -->
+<a href="mailto:thanhson.work@gmail.com"><img src="https://img.shields.io/badge/SECURE_MAIL-thanhson.work%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/sondoan89"><img src="https://img.shields.io/badge/GITHUB_TERMINAL-sondoan89-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN_UPLINK-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://t.me"><img src="https://img.shields.io/badge/TELEGRAM-COMM_CHANNEL-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
 
 </div>
 
+---
+
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════════════╗
-║  [PILOT DOSSIER] // CLASSIFIED: LEVEL 5 CLEARANCE                                         ║
+║  [PILOT DOSSIER // EXECUTIVE SUMMARY]                                                    ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════╣
-║  • DESIGNATION  : Doan Thanh Son (Đoàn Thanh Sơn)                                        ║
-║  • CALLSIGN     : sondoan89                                                              ║
-║  • SECTOR       : Hanoi / Ho Chi Minh City, Vietnam [Coordinates: 21.0285° N, 105.8542° E] ║
-║  • CLASS        : Heavy Full-Stack Engineer / Mecha Systems Architect                    ║
-║  • POWER CELL   : High-Throughput Architectures, Low-Latency APIs, Hardened Security     ║
-║  • THREAT LEVEL : CRITICAL (Mastery over Full-Stack & System Internals)                  ║
-║  • MISSION GOAL : Engineer resilient, zero-failure systems capable of handling massive   ║
-║                   scale and autonomous mission-critical workloads.                       ║
+║  • OPERATOR NAME : Doan Thanh Son (Đoàn Thanh Sơn)                                       ║
+║  • CALLSIGN      : sondoan89                                                             ║
+║  • BASE SECTOR   : Hanoi / Ho Chi Minh City, Vietnam                                     ║
+║  • ROLE & CLASS  : Core Full-Stack Systems Engineer // Mecha Architect                   ║
+║  • CORE STACK    : C++, Python, TypeScript, Node.js, React, Docker, Linux                ║
+║  • OBJECTIVE     : Xây dựng hệ thống phần mềm hiệu năng cao, kiến trúc vi dịch vụ sạch   ║
+║                    sẽ, tối ưu luồng dữ liệu thời gian thực và tự động hóa bảo mật.       ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-### ⚡ WEAPON SUBSYSTEMS & ORDNANCE (TECHNICAL SKILLS)
+### 🛠️ WEAPON SUBSYSTEMS & ORDNANCE (TECHNICAL CAPABILITIES)
 
 ```
-[MAIN CANNONS // CORE PROGRAMMING LANGUAGES]
-├─ C / C++ (Low-Level / Perf)     [████████████████░░░░] 85%  ── [OVERDRIVE CAPABLE]
-├─ Python (Security & Automation) [██████████████████░░] 92%  ── [RAPID EXPLOIT / CI]
-├─ TypeScript / JavaScript (Node) [██████████████████░░] 90%  ── [FULL WEBSYNC]
-└─ Go / Concurrency Engine        [██████████████░░░░░░] 75%  ── [MULTI-THREAD CLUSTER]
+[PRIMARY ENGINES // PROGRAMMING LANGUAGES]
+├─ C / C++ (Low-Level / System Core)       [████████████████░░░░] 85%  ── [OVERDRIVE]
+├─ Python (Security, Scripts & Automation) [██████████████████░░] 92%  ── [RAPID FIRE]
+├─ TypeScript / JavaScript (Modern Web)    [██████████████████░░] 90%  ── [SYNCHRONIZED]
+└─ SQL (Data Relational Modeling)          [████████████████░░░░] 85%  ── [ACID TRANSACTION]
 
-[HOLOGRAPHIC HUD // FRONTEND ARCHITECTURE]
-├─ React.js / Next.js 14+        [██████████████████░░] 90%  ── [ZERO-LATENCY HYDRATION]
-├─ TailwindCSS / Modern UI/UX     [████████████████████] 100% ── [CYBER-SURFACE POLISHED]
-└─ WebGL / Three.js Diagnostics   [████████████░░░░░░░░] 60%  ── [3D SPATIAL TELEMETRY]
+[AVIONICS & HUD // FRONTEND ARCHITECTURE]
+├─ React.js / Next.js Framework            [██████████████████░░] 90%  ── [SERVER COMPONENTS]
+├─ TailwindCSS / Responsive UI Matrix      [████████████████████] 100% ── [PIXEL PERFECT]
+└─ HTML5 / CSS3 / Modern Web API           [████████████████████] 100% ── [HARDENED DOM]
 
-[REACTOR CORE // BACKEND & INFRASTRUCTURE]
-├─ Node.js / Express Core         [██████████████████░░] 92%  ── [CLUSTER ASYNC WORKERS]
-├─ PostgreSQL / MongoDB / Redis   [████████████████░░░░] 85%  ── [TRANSACTIONAL RESILIENCE]
-├─ Docker Containerization        [██████████████████░░] 90%  ── [ISOLATED MICRO-PODS]
-└─ Linux Kernel / Git Operations  [████████████████████] 100% ── [BARE-METAL HARDENED]
+[PROPULSION REACTOR // BACKEND & INFRASTRUCTURE]
+├─ Node.js / Express Core Services         [██████████████████░░] 92%  ── [NON-BLOCKING I/O]
+├─ PostgreSQL / MongoDB / Redis Cache      [████████████████░░░░] 85%  ── [HIGH-THROUGHPUT]
+├─ Docker Containerization & Microservices [██████████████████░░] 90%  ── [ISOLATED RUNTIMES]
+└─ Linux Environment & Git Version Control [████████████████████] 100% ── [SYSTEM ADMIN LEVEL]
 ```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+<div align="center">
+
+#### `[ACTIVE HARDWARE & SOFTWARE ECOSYSTEM]`
+
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+</div>
 
 ---
 
@@ -81,39 +88,40 @@
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────────────────┐
-│ 01 // OPERATION: CAR-SENTINEL (VEHICLE TELEMETRY & DIAGNOSTICS)                         │
+│ 01 // OPERATION: CAR-SENTINEL (VEHICLE TELEMETRY & MANAGEMENT PLATFORM)                 │
 ├──────────────────────────────────────────────────────────────────────────────────────────┤
-│ • STATUS     : MISSION ACCOMPLISHED // ACTIVE SERVICE                                   │
-│ • TECH STACK : Node.js / Express / PostgreSQL / Docker / WebSocket Stream                │
-│ • OBJECTIVE  : Deploy an ultra-reliable vehicle telemetry bridge capable of real-time    │
-│                route tracking, diagnostic event telemetry, and multi-tenant telemetry.   │
-│ • OUTCOME    : Sub-35ms ingestion rate, automated failover and resilient data pipelines. │
-│ • REPOSITORY : https://github.com/sondoan89/car                                          │
+│ • STATUS     : ACTIVE SERVICE // COMPLETED                                               │
+│ • TECH STACK : Node.js / Express / PostgreSQL / Docker / RESTful APIs                    │
+│ • OBJECTIVE  : Thiết kế nền tảng quản lý và giám sát dữ liệu phương tiện thời gian thực, │
+│                hỗ trợ theo dõi lộ trình và cảnh báo sự cố chẩn đoán chính xác.           │
+│ • OUTCOME    : Tối ưu độ trễ xử lý dữ liệu, đảm bảo bảo mật và khả năng mở rộng tốt.   │
+│ • CODEBASE   : https://github.com/sondoan89/car                                          │
 └──────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────────────────┐
-│ 02 // OPERATION: NEXUS-PORTFOLIO (TACTICAL COMMAND INTERFACE)                            │
+│ 02 // OPERATION: NEXUS-PORTFOLIO (INTERACTIVE COMMAND INTERFACE)                         │
 ├──────────────────────────────────────────────────────────────────────────────────────────┤
-│ • STATUS     : DEPLOYED // CONTINUOUS UPGRADE                                            │
-│ • TECH STACK : React / Next.js / TailwindCSS / Cyberpunk Design System                   │
-│ • OBJECTIVE  : Build an imposing, responsive web command bridge showcasing engineering  │
-│                records, live telemetry stats, and architectural milestones.              │
-│ • OUTCOME    : 99+ Lighthouse performance index, dark-mode native, high accessibility.   │
-│ • REPOSITORY : https://github.com/sondoan89/Portfolio-ThanhSon                           │
+│ • STATUS     : DEPLOYED // CONTINUOUS ITERATION                                          │
+│ • TECH STACK : React / Next.js / TailwindCSS / Modern Web Standards                      │
+│ • OBJECTIVE  : Xây dựng nền tảng hồ sơ năng lực cá nhân với hiệu năng tối ưu, giao diện  │
+│                phong cách công nghệ cao và trải nghiệm người dùng ấn tượng.              │
+│ • OUTCOME    : Điểm kiểm thử Lighthouse 98+, hiển thị hoàn hảo trên mọi kích thước màn. │
+│ • CODEBASE   : https://github.com/sondoan89/Portfolio-ThanhSon                           │
 └──────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────────────────┐
-│ 03 // OPERATION: CYBER-PROBE (SECURITY AUDIT & CI/CD SENTINEL)                           │
+│ 03 // OPERATION: CYBER-PROBE (SECURITY AUDIT & AUTOMATION HARNESS)                       │
 ├──────────────────────────────────────────────────────────────────────────────────────────┤
 │ • STATUS     : OPERATIONAL PROTOCOL                                                      │
-│ • TECH STACK : Python 3 / PowerShell / GitHub Actions Workflow Automation                │
-│ • OBJECTIVE  : Autonomous security compliance harness and API integrity testing suites.  │
-│ • OUTCOME    : Zero false-positive static analysis, automated bug triage reporting.      │
-│ • REPOSITORY : https://github.com/sondoan89/security-suite                               │
+│ • TECH STACK : Python 3 / Bash / PowerShell / GitHub Actions CI/CD                        │
+│ • OBJECTIVE  : Tự động hóa quy trình quét mã nguồn, kiểm tra an toàn bảo mật và báo cáo  │
+│                lỗ hổng trước khi triển khai sản phẩm lên môi trường production.          │
+│ • OUTCOME    : Giảm 80% thời gian rà soát thủ công, nâng cao độ tin cậy của mã nguồn.    │
+│ • CODEBASE   : https://github.com/sondoan89/security-audit                               │
 └──────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -123,38 +131,16 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════════════╗
-║  [ACADEMIC PROTOCOLS]                                                                    ║
+║  [ACADEMIC CREDENTIALS]                                                                  ║
 ╠══════════════════════════════════════════════════════════════════════════════════════════╣
-║  • DEGREE     : Bachelor of Computer Science & Information Technology                     ║
-║  • CADET CORPS: Squad DH14C4                                                             ║
-║  • FOCUS      : Algorithms, High-Concurrency Systems, Software Engineering Paradigms    ║
+║  • HỌC VẤN    : Cử nhân Công nghệ Thông tin (Squad: DH14C4)                              ║
+║  • CHUYÊN MÔN : Kỹ thuật phần mềm, Cấu trúc dữ liệu & Thuật toán, Kiến trúc mạng máy tính║
 ║                                                                                          ║
-║  [FIELD CERTIFICATIONS]                                                                  ║
-║  • Git & GitHub Enterprise Governance // CI/CD Pipeline Architect                       ║
-║  • Modern Enterprise Full-Stack Engineering & Scalable Microservices                     ║
+║  [CHỨNG CHỈ & KỸ NĂNG NÂNG CAO]                                                          ║
+║  • Enterprise Git & GitHub CI/CD Automation Workflows                                    ║
+║  • Full-Stack Microservices Architecture & Database Performance Tuning                   ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════╝
 ```
-
----
-
-### 📡 COCKPIT TELEMETRY & REACTOR DATA (LIVE STATS)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sondoan89&show_icons=true&theme=radical&hide_border=true&bg_color=050811&title_color=00F0FF&icon_color=00F0FF&text_color=A0A5B5" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sondoan89&theme=radical&hide_border=true&background=050811&stroke=00F0FF&ring=00F0FF&fire=FF0055&currStreakNum=00F0FF" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sondoan89&layout=compact&theme=radical&hide_border=true&bg_color=050811&title_color=00F0FF&text_color=A0A5B5" width="48%" />
-</p>
-
----
-
-### 🐉 BIO-MECHA CONTRIBUTIONS (SNAKE PROTOCOL)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sondoan89/sondoan89/output/github-contribution-grid-snake-dark.svg" alt="Bio-Mecha Snake Grid" />
-</p>
 
 ---
 
@@ -162,12 +148,10 @@
 
 ```
   ================================================================================
-  [END OF TRANSMISSION] // AWAITING COMMAND SIGNAL // READY FOR INCOMING DIRECTIVE
+  [TRANSMISSION TERMINATED] // AVAILABLE FOR SYSTEM DIRECTIVES // CONTRACT / HIRE
   ================================================================================
 ```
 
-<a href="https://github.com/sondoan89">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF0055,50:7000FF,100:00F0FF&height=90&section=footer" width="100%" />
-</a>
+*Designed with precision for **Đoàn Thanh Sơn** (`sondoan89`)*
 
 </div>
